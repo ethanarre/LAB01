@@ -1,5 +1,5 @@
 1.- print("Hola mundo")
-2.a.i
+2.a.i.-
 void main() {
   String nombre = "Ethan";
   var apellido = "Arredondo";
@@ -8,4 +8,11 @@ void main() {
   print(nombre);
   print(apellido);
   print(saludo);
+}
+2.a.ii.-
+void main() {
+  int edad = 18;
+  double altura = 1.59;
+  print('Edad: $edad' );
+  print('Altura: $altura');
 }
