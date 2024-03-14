@@ -1,1 +1,11 @@
 1.- print("Hola mundo")
+2.a.i
+void main() {
+  String nombre = "Ethan";
+  var apellido = "Arredondo";
+  String saludo = 'Hola, $nombre';
+  
+  print(nombre);
+  print(apellido);
+  print(saludo);
+}
