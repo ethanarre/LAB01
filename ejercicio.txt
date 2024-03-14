@@ -32,3 +32,13 @@ void main() {
  var primer_valor = numeros.first;
  print(primer_valor);
 }
+3.b.i.-
+void main() {
+ 
+  Map persona = {
+    'nombre': 'Juan',
+    'edad': 30,
+    'ciudad': "Madrid"
+  };
+  
+}
