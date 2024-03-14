@@ -26,3 +26,9 @@ void main() {
   List colores= ["rojo","verde","azul"];
   print(colores);
 }
+3.a.iv.-
+void main() {
+  List numeros = [1,2,3,4,5];
+ var primer_valor = numeros.first;
+ print(primer_valor);
+}
